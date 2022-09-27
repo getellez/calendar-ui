@@ -1,0 +1,24 @@
+.Menu {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.Menu__options {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 30%;
+}
+
+.Menu__option {
+  color: black;
+  text-decoration: none;
+  background-color: white;
+  padding: 20px 10px;
+  text-align: center;
+  font-size: 1.2857rem;
+  margin: 10px 0;
+}

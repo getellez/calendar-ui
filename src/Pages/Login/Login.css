@@ -1,0 +1,16 @@
+.Login {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.Login__signup {
+  margin-top: 10px;
+  font-weight: 300;
+}
+
+.Login__button {
+  width: 100%;
+}
